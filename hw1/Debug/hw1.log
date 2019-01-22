@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  glad.c
+  hw1.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\hw1.cpp(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  objLoader.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\objloader.cpp(136): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'GLuint *'
+  particleSystem.cpp
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(91): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(115): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(137): warning C4018: '<': signed/unsigned mismatch
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5611 animation & planning in games\homework1\hw1\hw1\particlesystem.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework1\hw1\Debug\hw1.lib and object F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework1\hw1\Debug\hw1.exp
+  hw1.vcxproj -> F:\Courseware\Graduate\CSCI 5611 Animation & Planning in Games\homework1\hw1\Debug\hw1.exe
